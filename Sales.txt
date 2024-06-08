@@ -1,0 +1,3 @@
+Pratima,9832314537,prati@gmail.com,Cake,3,7,2100,Thu Jun  6 16:12:45 2024
+puchu,1234567892,puchu@gmail.com,Cake,3,0,30600,Thu Jun  6 16:18:23 2024
+anu,782451627,anu@gmail.com,Dairy Milk,2,97,970,Thu Jun  6 16:21:39 2024

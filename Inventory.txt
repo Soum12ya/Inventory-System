@@ -1,0 +1,4 @@
+1,Milky Bar,5,89
+2,Dairy Milk,10,0
+3,Cake,300,0
+4,Candy,1,97
